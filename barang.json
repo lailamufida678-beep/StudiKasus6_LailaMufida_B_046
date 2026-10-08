@@ -1,0 +1,18 @@
+[
+    {
+        "nama_barang": "Pulpen",
+        "jumlah": 50
+    },
+    {
+        "nama_barang": "Penghapus",
+        "jumlah": 100
+    },
+    {
+        "nama_barang": "Buku Tulis",
+        "jumlah": "50"
+    },
+    {
+        "nama_barang": "Penggaris",
+        "jumlah": "150"
+    }
+]
